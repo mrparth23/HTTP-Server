@@ -5,7 +5,7 @@ Uses UNIX/Linux features like pthreads, mutex and conditional variables and supp
 
 ## Installation
 
-Use the GNU Compiler Collection [Mingw-GCC]https://osdn.net/projects/mingw/releases/) to compile cpp files and required dependencies.
+Use the GNU Compiler Collection [Mingw-GCC](https://osdn.net/projects/mingw/releases/) to compile cpp files and required dependencies.
 
 
 ## Usage
